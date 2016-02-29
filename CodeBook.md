@@ -1,7 +1,8 @@
 # Code Book
 
 
-The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+Original files contain results of he experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+the prepared tidy data set tidy_data_set_means.txt contains the means of all of the measurements of the mean and standard deviation for each measurement. Sounds confusing, yes, but I'm just rolling with this :-)
 
 
 ### List of columns in tidy_data_set_means.txt
